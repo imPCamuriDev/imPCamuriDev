@@ -20,7 +20,7 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=imPCamuriDev&theme=dracula&hide_border=false&locale=pt-br" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imPCamuriDev&theme=dracula&hide_border=false&locale=pt-br" alt="GitHub Activity Graph" />
 </div>
 
 ## 💻 Tech Stack
@@ -45,6 +45,12 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" title="Next.js" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" title="Bootstrap" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" title="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://ui.shadcn.com/favicon.ico" height="40" alt="shadcn logo" title="ShadCN UI" />
+  <img width="12" />
+  <img src="https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg" height="40" alt="daisyui logo" title="DaisyUI" />
 </div>
 
 ### Backend & Frameworks
