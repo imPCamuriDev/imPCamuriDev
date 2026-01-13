@@ -15,12 +15,12 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imPCamuriDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imPCamuriDev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="165" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=imPCamuriDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&locale=pt-br" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imPCamuriDev&layout=compact&theme=dracula&hide_border=false&locale=pt-br&langs_count=6" height="165" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imPCamuriDev&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=imPCamuriDev&theme=dracula&hide_border=false&locale=pt-br" alt="GitHub Streak" />
 </div>
 
 ## 💻 Tech Stack
@@ -42,15 +42,36 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="React" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" title="Next.js" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" title="Bootstrap" />
 </div>
 
-### Backend & Ferramentas
+### Backend & Frameworks
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" title="Spring Boot" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo" title="Composer" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring security logo" title="Spring Security" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo" title="Composer" />
+</div>
+
+### Banco de Dados
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
+</div>
+
+### Autenticação & Segurança
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" height="40" alt="oauth logo" title="OAuth" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jwt" height="40" alt="jwt logo" title="JWT" />
+</div>
+
+### Ferramentas
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" title="IntelliJ IDEA" />
 </div>
 
