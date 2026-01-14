@@ -32,9 +32,11 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" title="Dart" />
 </div>
 
-### Frontend
+### Frontend & Mobile
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML5" />
   <img width="12" />
@@ -43,6 +45,8 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="React" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" title="Next.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" title="Flutter" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" title="Bootstrap" />
   <img width="12" />
@@ -69,6 +73,11 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
 </div>
 
+### Comunicação em Tempo Real
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="websocket logo" title="WebSockets" />
+</div>
+
 ### Autenticação & Segurança
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" height="40" alt="oauth logo" title="OAuth" />
@@ -82,7 +91,7 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
 </div>
 
 <div align="center">
-  <p><em>🌱 Atualmente aprendendo e aprimorando conhecimentos em Spring Boot & React</em></p>
+  <p><em>🌱 Atualmente aprendendo e aprimorando conhecimentos em Spring Boot, React & Flutter</em></p>
 </div>
 
 ## 🎵 Tocando Recentemente no Spotify
