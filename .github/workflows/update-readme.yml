@@ -1,0 +1,57 @@
+name: Update README with Age
+
+on:
+  schedule:
+    # Executa diariamente às 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Permite executar manualmente
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Calculate age and update README
+        run: |
+          # Data de nascimento: 18 de março de 2009
+          birth_date="2009-03-18"
+          current_date=$(date +%Y-%m-%d)
+          
+          # Calcular idade
+          birth_year=$(echo $birth_date | cut -d'-' -f1)
+          birth_month=$(echo $birth_date | cut -d'-' -f2)
+          birth_day=$(echo $birth_date | cut -d'-' -f3)
+          
+          current_year=$(date +%Y)
+          current_month=$(date +%m)
+          current_day=$(date +%d)
+          
+          age=$((current_year - birth_year))
+          
+          # Ajustar se ainda não fez aniversário este ano
+          if [ $current_month -lt $birth_month ] || ([ $current_month -eq $birth_month ] && [ $current_day -lt $birth_day ]); then
+            age=$((age - 1))
+          fi
+          
+          echo "Idade calculada: $age anos"
+          
+          # Atualizar README.md
+          sed -i "s/Sou um desenvolvedor de [0-9]\+ anos/Sou um desenvolvedor de $age anos/g" README.md
+          
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🎂 Atualizar idade automaticamente" && git push)
