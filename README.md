@@ -19,10 +19,6 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imPCamuriDev&layout=compact&theme=dracula&hide_border=false&locale=pt-br&langs_count=6" height="165" alt="languages graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imPCamuriDev&theme=dracula&hide_border=false&locale=pt-br" alt="GitHub Activity Graph" />
-</div>
-
 ## 💻 Tech Stack
 
 ### Linguagens de Programação
