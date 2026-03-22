@@ -2,13 +2,13 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;16+anos+%7C+Rio+de+Janeiro;Estudante+de+Sistemas+na+Est%C3%A1cio;Apaixonado+por+tecnologia!)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;17+anos+%7C+Rio+de+Janeiro;Cursado+em+Desenv+de+Sistemas+na+Est%C3%A1cio;Apaixonado+por+tecnologia!)
 
 </div>
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor de 16 anos apaixonado por tecnologia, morando no Rio de Janeiro 🇧🇷. Atualmente estudo Desenvolvimento de Sistemas na Estácio, onde estou construindo uma base sólida para minha carreira em tecnologia.
+Sou um desenvolvedor de 17 anos apaixonado por tecnologia, morando no Rio de Janeiro 🇧🇷. Atualmente estudo Desenvolvimento de Sistemas na Estácio, onde estou construindo uma base sólida para minha carreira em tecnologia.
 
 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como desenvolvedor!
 
