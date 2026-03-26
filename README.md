@@ -73,18 +73,6 @@ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
 </div>
 
-### Comunicação em Tempo Real
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="websocket logo" title="WebSockets" />
-</div>
-
-### Autenticação & Segurança
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" height="40" alt="oauth logo" title="OAuth" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jwt" height="40" alt="jwt logo" title="JWT" />
-</div>
-
 ### Ferramentas
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" title="IntelliJ IDEA" />
