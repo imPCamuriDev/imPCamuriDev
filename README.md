@@ -12,13 +12,6 @@ Sou um desenvolvedor de 17 anos apaixonado por tecnologia, morando no Rio de Jan
 
 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como desenvolvedor!
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=imPCamuriDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&locale=pt-br" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imPCamuriDev&layout=compact&theme=dracula&hide_border=false&locale=pt-br&langs_count=6" height="165" alt="languages graph" />
-</div>
-
 ## 💻 Tech Stack
 
 ### Linguagens de Programação
