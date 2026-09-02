@@ -15,9 +15,9 @@
 
 ## Sobre mim
 
-Desenvolvedor full stack baseado no Rio de Janeiro, atualmente cursando Desenvolvimento de Sistemas na Estácio. Trabalho na construção de aplicações web modernas, com foco em arquitetura sólida, boas práticas e código de qualidade — do backend à interface.
+Desenvolvedor full stack baseado no Rio de Janeiro, atualmente formado como Técnico em Desenvolvimento de Sistemas na Estácio. Trabalho na construção de aplicações web modernas, com foco em arquitetura sólida, boas práticas e código de qualidade — do backend à interface.
 
-Tenho interesse contínuo em expandir meu domínio sobre **Spring Boot**, **React** e **Flutter**, buscando sempre unir teoria acadêmica à prática profissional.
+Tenho interesse contínuo em expandir meu domínio sobre **NoSQL**, **C#** e **C++**, buscando sempre unir teoria acadêmica à prática profissional.
 
 <br>
 
