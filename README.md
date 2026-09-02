@@ -25,7 +25,7 @@ Tenho interesse contínuo em expandir meu domínio sobre **Spring Boot**, **Reac
 
 **Linguagens**
 <br>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,dart,go" height="42"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,dart,go" height="42"/>
 
 **Frontend & Mobile**
 <br>
