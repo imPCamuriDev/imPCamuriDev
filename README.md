@@ -37,15 +37,6 @@ Tenho interesse contínuo em expandir meu domínio sobre **Spring Boot**, **Reac
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imPCamuriDev&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imPCamuriDev&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
-</div>
-
-<br>
-
 ## Tocando agora
 
 <div align="center">
